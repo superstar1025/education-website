@@ -1,0 +1,12 @@
+.logout-button {
+  border: none;
+  background: transparent;
+  text-align: left;
+  padding: 0.75rem 1rem;
+  &:hover {
+    background: #20a8d8;
+  }
+  span {
+    margin-left: 15px;
+  }
+}
